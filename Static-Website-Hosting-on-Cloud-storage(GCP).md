@@ -5,7 +5,8 @@
 - Go to console.
 - Click on the top search bar.
 - Search Bucket. (Bucket is a part of cloud storage service where we can hosting our Static website)
-<img width="1744" height="744" alt="image" src="https://github.com/user-attachments/assets/e5f8add3-a7f1-4d45-b215-631cba4e10a4" />
+<img width="678" height="469" alt="image" src="https://github.com/user-attachments/assets/cafdc758-48e0-494f-8728-ba9c469f90cd" />
+
 
 ## Step 2:
 ### Click on create bucket
@@ -27,3 +28,30 @@ For creating new bucket
 ### Location type
 Select the region
 
+<img width="672" height="870" alt="image" src="https://github.com/user-attachments/assets/8e29ce9a-68aa-4466-a864-f21bb1c5c10e" />
+
+
+<img width="697" height="952" alt="image" src="https://github.com/user-attachments/assets/f162f219-33d8-4b09-b23b-688f9a25907d" />
+
+<img width="927" height="1125" alt="image" src="https://github.com/user-attachments/assets/2fe9eb99-b330-4749-8848-d6ca5bbe9f67" />
+
+<img width="939" height="1054" alt="image" src="https://github.com/user-attachments/assets/8f203016-3c7a-4eb6-af84-e5acbd7c3cfa" />
+
+<img width="1437" height="1234" alt="image" src="https://github.com/user-attachments/assets/640bab16-2849-48fc-9436-8d46c15a0850" />
+
+<img width="1437" height="1234" alt="image" src="https://github.com/user-attachments/assets/6be9412c-1b00-4d2e-a819-a111ce804375" />
+
+<img width="936" height="946" alt="image" src="https://github.com/user-attachments/assets/d0cc878b-cdd0-4c5c-9324-9bf0c20ba095" />
+
+<img width="930" height="318" alt="image" src="https://github.com/user-attachments/assets/09c8b8a6-1c9b-41f4-8415-5af35cce877c" />
+
+<img width="769" height="376" alt="image" src="https://github.com/user-attachments/assets/f42a823e-d3da-45b7-86be-0b327528e671" />
+
+<img width="910" height="373" alt="image" src="https://github.com/user-attachments/assets/cdfcd599-42c1-40d2-8f11-e90d9133cfdc" />
+
+<img width="1461" height="1138" alt="image" src="https://github.com/user-attachments/assets/307834df-d5d7-4b55-800d-08bccc9a57e5" />
+
+
+
+
+<img width="672" height="870" alt="image" src="https://github.com/user-attachments/assets/cc74a95a-54d1-4b25-b3c5-2faea4a1743b" />
