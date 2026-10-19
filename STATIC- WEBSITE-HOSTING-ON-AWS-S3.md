@@ -81,35 +81,104 @@ Object Lock prevents files in your S3 bucket from being deleted or overwritten f
 ### Upload Object
 <img width="1891" height="894" alt="image" src="https://github.com/user-attachments/assets/5b33d60d-c51d-418d-811b-4ff616cf7fce" />
 
-## Step: 15
+## Step: 15Open the Permissions Tab
+
+After uploading your website files to the S3 bucket, open the bucket and select the Permissions tab.
+
+This tab contains the security settings that control who can access your bucket and its objects.
+
+You can manage:
+
+Block Public Access settings
+
+Bucket policies
+
+Access permissions
+
+For a public static website, visitors need permission to read the website files. Do not make private or sensitive files public.
 
 <img width="1909" height="622" alt="image" src="https://github.com/user-attachments/assets/36c92115-5c87-41f2-9f6f-2c5239405c52" />
 
 ## Step: 16
+
+Step 16: Configure Block Public Access
+
+Open your S3 bucket.
+
+Select the Permissions tab.
+
+Find Block public access (bucket settings).
+
+Click Edit.
+
+If you are using the direct S3 website endpoint with public access, adjust the settings as required.
+
+Review the warning and confirm the changes.
 <img width="1929" height="319" alt="image" src="https://github.com/user-attachments/assets/d95e1d12-83ba-4b3e-b843-a21ed87cc164" />
 
 ## Step: 17
+
+Step 16: Configure Block Public Access
+
+Open your S3 bucket.
+
+Select the Permissions tab.
+
+Find Block public access (bucket settings).
+
+Click Edit.
+
+If you are using the direct S3 website endpoint with public access, adjust the settings as required.
+
+Review the warning and confirm the changes.
+
+Important: Disabling Block Public Access can expose bucket contents to the internet if a public policy allows it. For a more secure setup, keep S3 private and use Amazon CloudFront with Origin Access Control (OAC).
+
+Step 17: Add a Bucket Policy
+
+A bucket policy defines which actions are allowed on the bucket and its objects.
+
+Open the bucket and select Permissions.
+
+Scroll to Bucket policy.
+
+Click Edit.
+
+Add the following policy, replacing YOUR-BUCKET-NAME with your actual S3 bucket name.
+```
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "PublicReadGetObject",
+      "Effect": "Allow",
+      "Principal": "*",
+      "Action": "s3:GetObject",
+      "Resource": "arn:aws:s3:::YOUR-BUCKET-NAME/*"
+    }
+  ]
+}
+```
+Click Save changes.
 <img width="1929" height="319" alt="image" src="https://github.com/user-attachments/assets/47ee691c-ae5c-4078-9917-9952961a4a6e" />
 
-## Step: 18
 <img width="1929" height="430" alt="image" src="https://github.com/user-attachments/assets/ea1e4e07-ea87-4acf-9620-17bf7b4b086b" />
 
-## Step: 19
+
 <img width="1918" height="337" alt="image" src="https://github.com/user-attachments/assets/bf8202bd-238b-4aa4-9be6-a3a179e627e1" />
 
-## Step: 20
+
 <img width="1918" height="337" alt="image" src="https://github.com/user-attachments/assets/db3f0171-1cd3-40dc-90f3-770505dbb78b" />
 
-## Step: 21
+
 <img width="1905" height="178" alt="image" src="https://github.com/user-attachments/assets/38c30924-3d43-4f48-b5c1-ad50eaec2de9" />
 
-## Step: 22
 <img width="1339" height="555" alt="image" src="https://github.com/user-attachments/assets/5dfa70c1-93f5-4cc3-9532-7b954c58c1e8" />
 
-## Step: 23
+
 <img width="1119" height="262" alt="image" src="https://github.com/user-attachments/assets/f747a340-bd65-4148-bbb7-89851485246f" />
 
-## Step: 24
+
 
 <img width="1779" height="130" alt="image" src="https://github.com/user-attachments/assets/3e57176d-0dd6-492e-a98d-148ccc5e6c5d" />
 
