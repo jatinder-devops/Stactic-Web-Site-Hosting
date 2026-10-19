@@ -51,7 +51,17 @@ Select the region
 
 <img width="1461" height="1138" alt="image" src="https://github.com/user-attachments/assets/307834df-d5d7-4b55-800d-08bccc9a57e5" />
 
+<img width="2412" height="891" alt="image" src="https://github.com/user-attachments/assets/7880decf-9bed-4d40-8252-148c76eb5e7f" />
 
+<img width="1299" height="661" alt="image" src="https://github.com/user-attachments/assets/5d0fb7e3-161f-4688-94c8-ec929fe955b4" />
+
+<img width="1306" height="1114" alt="image" src="https://github.com/user-attachments/assets/00d398b9-0da7-4e7f-84b0-302c76ecf235" />
+
+<img width="2461" height="948" alt="image" src="https://github.com/user-attachments/assets/e4b579b0-6cd8-43ba-8c29-3ca2f1ce962c" />
+
+<img width="1297" height="1002" alt="image" src="https://github.com/user-attachments/assets/86d4e793-0b47-4f8f-8536-3328bcb8b352" />
+
+<img width="2877" height="1701" alt="image" src="https://github.com/user-attachments/assets/cf947c08-5096-4eea-9615-e68245ed51b2" />
 
 
 <img width="672" height="870" alt="image" src="https://github.com/user-attachments/assets/cc74a95a-54d1-4b25-b3c5-2faea4a1743b" />
