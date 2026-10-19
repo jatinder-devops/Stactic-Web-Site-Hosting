@@ -134,7 +134,17 @@ Review the warning and confirm the changes.
 
 Important: Disabling Block Public Access can expose bucket contents to the internet if a public policy allows it. For a more secure setup, keep S3 private and use Amazon CloudFront with Origin Access Control (OAC).
 
-Step 17: Add a Bucket Policy
+<img width="1929" height="319" alt="image" src="https://github.com/user-attachments/assets/47ee691c-ae5c-4078-9917-9952961a4a6e" />
+
+<img width="1929" height="430" alt="image" src="https://github.com/user-attachments/assets/ea1e4e07-ea87-4acf-9620-17bf7b4b086b" />
+
+
+<img width="1918" height="337" alt="image" src="https://github.com/user-attachments/assets/bf8202bd-238b-4aa4-9be6-a3a179e627e1" />
+
+
+<img width="1918" height="337" alt="image" src="https://github.com/user-attachments/assets/db3f0171-1cd3-40dc-90f3-770505dbb78b" />
+
+Add a Bucket Policy
 
 A bucket policy defines which actions are allowed on the bucket and its objects.
 
@@ -160,25 +170,15 @@ Add the following policy, replacing YOUR-BUCKET-NAME with your actual S3 bucket 
 }
 ```
 Click Save changes.
-<img width="1929" height="319" alt="image" src="https://github.com/user-attachments/assets/47ee691c-ae5c-4078-9917-9952961a4a6e" />
-
-<img width="1929" height="430" alt="image" src="https://github.com/user-attachments/assets/ea1e4e07-ea87-4acf-9620-17bf7b4b086b" />
-
-
-<img width="1918" height="337" alt="image" src="https://github.com/user-attachments/assets/bf8202bd-238b-4aa4-9be6-a3a179e627e1" />
-
-
-<img width="1918" height="337" alt="image" src="https://github.com/user-attachments/assets/db3f0171-1cd3-40dc-90f3-770505dbb78b" />
-
-
 <img width="1905" height="178" alt="image" src="https://github.com/user-attachments/assets/38c30924-3d43-4f48-b5c1-ad50eaec2de9" />
 
-<img width="1339" height="555" alt="image" src="https://github.com/user-attachments/assets/5dfa70c1-93f5-4cc3-9532-7b954c58c1e8" />
 
+<img width="1339" height="555" alt="image" src="https://github.com/user-attachments/assets/5dfa70c1-93f5-4cc3-9532-7b954c58c1e8" />
+## Step :update A record 
 
 <img width="1119" height="262" alt="image" src="https://github.com/user-attachments/assets/f747a340-bd65-4148-bbb7-89851485246f" />
 
-
+Step : verifing the website
 
 <img width="1779" height="130" alt="image" src="https://github.com/user-attachments/assets/3e57176d-0dd6-492e-a98d-148ccc5e6c5d" />
 
